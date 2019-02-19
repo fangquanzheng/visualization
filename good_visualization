@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="visualization.css" />
+    <title>Visualization</title>
+  </head>
+  <body>
+    <h1>
+    Visualization
+    </h1>
+    <figure>
+      <img src="images/good visualization.jpg"
+           alt="a new chart of history" />
+    <h2>
+        <figcaption>
+            A New Chart of History
+        </figcaption>
+    </h2>
+    </figure>
+
+    <figure>
+      <img src="images/bad visualization.png"
+           alt="In which domains do happy people enjoy sufficiency?" />
+    <h2>
+      <figcaption>
+        In which domains do happy people enjoy sufficiency?     
+      </figcaption>
+    </h2>
+    </figure>
+    </body>
+</html>
